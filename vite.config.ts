@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/hr-people-analytics/',
+  base: '/peoplepulse-hr-dashboard/',
 })
